@@ -47,6 +47,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-danielpgf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/daniel-pg-faria/)](www.linkedin.com/in/daniel-pg-faria/)
+[![Linkedin](https://img.shields.io/badge/-danielpgf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daniel-pg-faria/)](https://www.linkedin.com/in/daniel-pg-faria/)
 [![Gmail Badge](https://img.shields.io/badge/-danielpgfaria@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielpgfaria@gmail.com)](mailto:danielpgfaria@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](github.com/danielpgf)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/danielpgf)
